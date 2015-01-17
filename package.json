@@ -1,0 +1,12 @@
+{
+    "name": "rs2",
+    "version": "0.0.1",
+    "description": "Cool stuff.",
+    "repository": "https://github.com/paularmstrong/node-templates.git",
+    "homepage": "http://paularmstrong.github.com/node-templates/",
+    "author": "Paul Armstrong <paul@paularmstrongdesigns.com>",
+    "dependencies": {
+        "phantomjs": "1.9.13",
+        "nightmare": "1.6.5"
+    }
+}
